@@ -1,4 +1,4 @@
-# Submission Dicoding Belajar Fundamental Aplikasi Android
+# Android Github User Application
 Submission kelas Dicoding: Belajar Fundamental Aplikasi Android. Membuat aplikasi Github User Application yang bisa menampilkan daftar user github yang ada. Pengguna juga dapat menggunakan fitur pencarian untuk mencari user github dan menambahkannya ke favorite. Selain itu pengguna juga bisa melihat detail dari user github yang dipilih.
 
 ## Fitur Aplikasi
